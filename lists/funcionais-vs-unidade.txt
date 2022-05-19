@@ -1,0 +1,6 @@
+1: Testes de unidade verificam se o comportamento do código está de acordo com
+   os requisitos do sistema. Testes funcionais verificam se o sistema se comporta
+   de acordo com as expectativas do usuário.
+
+2: Testes de unidade têm conhecimento da estrutura interna do sistema. Testes
+   funcionais não têm conhecimento da estrutura interna do sistema.
