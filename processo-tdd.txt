@@ -1,0 +1,8 @@
+Um requisito do sistema é especificado através da escrita de um teste funcional. Se
+a execução desse teste falhar, significa que é necessário implementar funcionalidades
+no sistema, para que o requisito seja satisfeito. A implementação de cada funcionalidade
+é feita seguindo os princípios de desenvolvimento de TDD. Ao término da implementação das
+funcionalidades, verifica-se se o teste funcional executa sem falhar. Caso esse seja o caso,
+podemos refatorar o código do sistema seguindo os princípios de TDD para refatoração, ou
+partir para outro requisito, especificado como um novo teste funcional. A partir desse ponto, o
+ciclo descrito acima se repete.
